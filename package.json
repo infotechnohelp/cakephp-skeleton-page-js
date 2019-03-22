@@ -1,6 +1,6 @@
 {
   "name": "cakephp-skeleton-page-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/infotechnohelp/cakephp-skeleton-page-js#readme",
   "dependencies": {
+    "@infotechnohelp/carousel": "0.0.1",
     "rotate-icon": "^1.0.3"
   }
 }
